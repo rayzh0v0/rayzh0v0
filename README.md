@@ -1,4 +1,18 @@
-## Hi there 👋
+ _   _ _____ _     _     ___   __        _____  ____  _     ____  
+| | | | ____| |   | |   / _ \  \ \      / / _ \|  _ \| |   |  _ \ 
+| |_| |  _| | |   | |  | | | |  \ \ /\ / / | | | |_) | |   | | | |
+|  _  | |___| |___| |__| |_| |   \ V  V /| |_| |  _ <| |___| |_| |
+|_| |_|_____|_____|_____\___/     \_/\_/  \___/|_| \_\_____|____/ 
+                              
+## 你好呀👋 Hi there 👋
+欢迎你来到我的主页😆！我目前喜欢编程💻、摄影📷、阅读📔和旅行✈️。
+Welcome to my homepage😆! I currently enjoy programming💻, photography📷, reading📔, and traveling✈️.
+
+我目前对于计算机体系结构很感兴趣，正在努力成为一名优秀的计算机体系结构工程师。
+I am very interested in computer architecture and am now striving to become an excellent computer architecture engineer.
+
+希望可以通过你我的努力，让世界变得更加美好🌏。一起加油啦💪！！！
+I hope that through our joint efforts, we can make the world a better place 🌏. Come on and Fighting💪!!!
 
 <!--
 **rayzh0v0/rayzh0v0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +29,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=sun0225SUN&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
+## GitHub Statistics
+![rayzh0v0's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayzh0v0)
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayzh0v0)
+
