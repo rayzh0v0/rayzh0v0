@@ -1,17 +1,20 @@
- _   _ _____ _     _     ___   __        _____  ____  _     ____  
+<pre>
+ _   _ _____ _     _     ___   __        _____  ____  _     ____    
 | | | | ____| |   | |   / _ \  \ \      / / _ \|  _ \| |   |  _ \ 
 | |_| |  _| | |   | |  | | | |  \ \ /\ / / | | | |_) | |   | | | |
 |  _  | |___| |___| |__| |_| |   \ V  V /| |_| |  _ <| |___| |_| |
-|_| |_|_____|_____|_____\___/     \_/\_/  \___/|_| \_\_____|____/ 
-                              
+|_| |_|_____|_____|_____\___/     \_/\_/  \___/|_| \_\_____|____/                          
+</pre>
+
 ## 你好呀👋 Hi there 👋
-欢迎你来到我的主页😆！我目前喜欢编程💻、摄影📷、阅读📔和旅行✈️。
-Welcome to my homepage😆! I currently enjoy programming💻, photography📷, reading📔, and traveling✈️.
 
-我目前对于计算机体系结构很感兴趣，正在努力成为一名优秀的计算机体系结构工程师。
-I am very interested in computer architecture and am now striving to become an excellent computer architecture engineer.
-
-希望可以通过你我的努力，让世界变得更加美好🌏。一起加油啦💪！！！
+欢迎你来到我的主页😆！我目前喜欢编程💻、摄影📷、阅读📔和旅行✈️。 <br>
+Welcome to my homepage😆! I currently enjoy programming💻, photography📷, reading📔, and traveling✈️.<br>
+<br>
+我目前对于计算机体系结构很感兴趣，正在努力成为一名优秀的计算机体系结构工程师。<br>
+I am very interested in computer architecture and am now striving to become an excellent computer architecture engineer.<br>
+<br>
+希望可以通过你我的努力，让世界变得更加美好🌏。一起加油啦💪！！！<br>
 I hope that through our joint efforts, we can make the world a better place 🌏. Come on and Fighting💪!!!
 
 <!--
